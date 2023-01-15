@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @jafar-iringallur
+- 👋 Hi, I’m Jafar Swadhique
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning BCA
+- 🌱 I’m currently working as Laravel Developer
 - 💞️ I’m looking to collaborate on web developers
-- 📫 How to reach me ...
 
 <!---
 jafar-iringallur/jafar-iringallur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

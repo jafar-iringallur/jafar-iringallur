@@ -11,9 +11,6 @@
 
 ### Senior Software Engineer · Laravel · Node.js · React · Next.js
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jafar%20Swadhique%20AK-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jafar-swadhique-ak)
-[![Email](https://img.shields.io/badge/Email-jafariringallur%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:jafariringallur@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-9605882981-25D366?style=flat-square&logo=whatsapp&logoColor=white)](tel:9605882981)
 
 </div>
 
@@ -136,17 +133,6 @@ A Telegram bot offering real-time English–Malayalam translations with intellig
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Jafar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jafar-iringallur&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jafar-iringallur&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
 
 ## 🎓 Education
 
